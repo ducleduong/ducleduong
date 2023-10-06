@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I read news about technology.
+- :zap: I'm also a video editer in familiar with Adobe Premiere Pro
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ducle-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/duc-le-4aa7b4277/)
 
@@ -58,6 +58,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>
+</div>
+
+- Extra:
+  
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" title="AdobePremiere" alt="AdobePremiere" width="40" height="40"/>
 </div>
 
 
