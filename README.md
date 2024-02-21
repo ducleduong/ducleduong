@@ -68,7 +68,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 ### :fire: My Stats :
-<div align="center"><a href="https://app.daily.dev/ducle28"><img src="https://api.daily.dev/devcards/515ad8a4e6c34a8c9e41bdb5b027769b.png?r=6pi" width="400" alt="Duc Le's Dev Card"/></a></div>
+<div align="center"><a href="https://app.daily.dev/ducle28"><a href="https://app.daily.dev/ducle28"><img src="https://api.daily.dev/devcards/v2/UYT2RN1NUGyGybaTLpXKV.png?type=default&r=oc0" width="356" alt="Duc Le's Dev Card"/></a></a></div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
