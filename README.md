@@ -70,8 +70,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Stats :
 <div align="center"><a href="https://app.daily.dev/ducle28"><a href="https://app.daily.dev/ducle28"><img src="https://api.daily.dev/devcards/v2/UYT2RN1NUGyGybaTLpXKV.png?type=default&r=oc0" width="356" alt="Duc Le's Dev Card"/></a></a></div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 
 <!--
 **ducleduong/ducleduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
