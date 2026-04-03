@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <a href="https://app.daily.dev/ducle28"><img src="https://api.daily.dev/devcards/v2/UYT2RN1NUGyGybaTLpXKV.png?type=wide&r=aom" width="652" alt="Duc Le's Dev Card"/></a>
 </div>
 
 ---
@@ -45,7 +45,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>
 </div>
@@ -59,17 +58,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>
 </div>
-
-- Extra:
-  
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" title="AdobePremiere" alt="AdobePremiere" width="40" height="40"/>
-</div>
-
-
-### :fire: My Stats :
-<div align="center"><a href="https://app.daily.dev/ducle28"><a href="https://app.daily.dev/ducle28"><img src="https://api.daily.dev/devcards/v2/UYT2RN1NUGyGybaTLpXKV.png?type=default&r=oc0" width="356" alt="Duc Le's Dev Card"/></a></a></div>
-
 
 <!--
 **ducleduong/ducleduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
